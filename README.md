@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ky-Thuyen Vugia.
 - 👀 I like solving puzzles, building things, and finding optimal / efficient solutions to problems.
-- 🌱 I’m currently learning the Go programming language.
 - 📫 How to reach me:
   - Email: kytvu1@gmail.com
   - Phone: +1 (714) 417 - 8454
